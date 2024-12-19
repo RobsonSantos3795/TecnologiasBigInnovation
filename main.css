@@ -1,0 +1,91 @@
+/*  ###  BARRA DE PESQUISA  ###  */
+.search-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+#searchResults {
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    max-width: 300px;
+}
+.resultItem {
+    padding: 8px;
+}
+.resultItem a {
+    text-decoration: none;
+    color: blue;
+}
+.resultItem a:hover {
+    text-decoration: underline;
+}
+.titulo1 {
+    text-align: center;
+} 
+
+/*main1.100.css*/
+
+.cabecalho {
+    display: flex;
+    margin: 5px;
+    padding: auto;
+    width: 40%;
+    height: 50%;
+    font-size: 25px;
+}
+.logo {
+    height: 100px;
+    width: 100px;
+    padding: auto auto;
+    border-radius: 5px;
+}
+/*  ###  PARTE DE INSERIR PESQUISA  ###  */
+input {
+    border-radius: 5px;
+    margin: 25px 10px;
+    padding: 2px 15px;
+    font-size: 20px;
+    display: inline-flex;
+    height: auto;
+    width: 160px;
+}
+/*  ###  MENU  ###  */
+#menu {
+    display: none; /* Menu oculto por padrão */
+}
+button {
+    display: flex;
+    align-items: center;
+    padding: 10px 10px;
+    font-size: 20px;
+    border: none;
+    background-color: rgb(11, 182, 159);
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button .fa-search {
+    margin-right: 5px; /* Espaço entre o ícone e o texto */
+}
+.texto {
+    background-color: rgb(5, 190, 104);
+    border-radius: 5px;
+    font-size: 20px;
+    margin: auto auto;
+    padding: 1px 1px;
+}
+/*  ###  MUITA ATENÇÃO NA REMOÇÃO DO LNK  ###  */
+a:link {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+footer {
+    background-color: rgb(7, 146, 104);
+    padding: 50px;
+    border-radius: 5px;
+    border: black 3px solid;
+}
+.sobre {
+    text-align: center;
+}
