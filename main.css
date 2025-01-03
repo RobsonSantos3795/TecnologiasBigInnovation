@@ -89,3 +89,28 @@ footer {
 .sobre {
     text-align: center;
 }
+/* ###  ROLAGEM  ### */
+#container {
+    width: 100%;
+    height: 300px;
+    overflow-x: auto; /* Permitindo rolagem horizontal */
+    white-space: nowrap; /* Evitando que os itens quebrem linha */
+    border: 0px solid #000;
+    scrollbar-width: none; /* Ocultando a barra de rolagem no Firefox */
+    border-radius: 5px;
+}
+
+#container::-webkit-scrollbar {
+    display: none; /* Ocultando a barra de rolagem no Webkit (Chrome, Safari) */
+}
+
+.item {
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    background-color: #4CAF50;
+    margin-right: 3px;
+}
+.destaque {
+    text-align: center;
+}
