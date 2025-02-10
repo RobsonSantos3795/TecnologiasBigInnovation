@@ -48,7 +48,7 @@ window.onload = function() {
         { name: 'Ki, em construção de site web.........', link: 'index3.html' },
         { name: 'Kit f, em construção de site web.........', link: 'index4.html' },
         { name: 'Kit , em construção de site web.........', link: 'index5.html' },
-        { name: 'Arco de balões , em construção de site web.........', link: 'index6.html' },
+        { name: 'em construção de site web.........', link: 'index6.html' },
         //ch,13:27,17:43,18:45,00:21
         //kekezinha23
   
