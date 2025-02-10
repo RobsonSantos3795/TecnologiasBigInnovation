@@ -45,10 +45,12 @@ window.onload = function() {
     const namedLinks = [
         { name: 'Criação de site', link: 'index1.html' },
         { name: 'Edição de arquivo PDF', link: 'index2.html' },
-        { name: 'Ki, em construção de site web.........', link: 'index3.html' },
-        { name: 'Kit f, em construção de site web.........', link: 'index4.html' },
-        { name: 'Kit , em construção de site web.........', link: 'index5.html' },
-        { name: 'em construção de site web.........', link: 'index6.html' },
+        { name: 'Criação de flay', link: 'index3.html' },
+        { name: 'Criação de logo', link: 'index4.html' },
+        { name: 'Convites personalizados', link: 'index5.html' },
+        { name: 'Formatação de computador', link: 'index6.html' },
+        { name: 'Ajuda online', link: 'index7.html' },
+        { name: 'Sobre nós', link: 'index8.html' },
         //ch,13:27,17:43,18:45,00:21
         //kekezinha23
   

@@ -114,3 +114,13 @@ footer {
 .destaque {
     text-align: center;
 }
+#Bloco1 {
+    display: flex;
+    margin: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.textoh2 {
+    text-align: center;
+    display: flexbox;
+}
