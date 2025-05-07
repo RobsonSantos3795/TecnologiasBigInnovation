@@ -50,6 +50,7 @@ window.onload = function() {
         { name: 'Convites personalizados', link: 'index5.html' },
         { name: 'Formatação de computador', link: 'index6.html' },
         { name: 'Ajuda online', link: 'index7.html' },
+        { name: 'Análise de dados com Power Bi', link:'powerbi.html' },
         { name: 'Sobre nós', link: 'index8.html' },
         //ch,13:27,17:43,18:45,00:21
         //kekezinha23
