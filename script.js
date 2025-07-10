@@ -44,7 +44,7 @@ window.onload = function() {
     // Lista de nomes com links associados
     const namedLinks = [
         { name: 'Criação de site', link: 'index1.html' },
-        { name: 'Edição de arquivo PDF', link: 'index2.html' },
+        { name: 'Desenvolvimento Power Bi - Valor Inicial R$500,00', link: 'index2.html' },
         { name: 'Ajuda / Consultoria Mobile - R$ 10,00', link: 'index3.html' },
         { name: 'Criação de Flayer / Logo - R$ 25,00', link: 'index4.html' },
         { name: 'Edição de PDF - R$ 5,00', link: 'index5.html' },
