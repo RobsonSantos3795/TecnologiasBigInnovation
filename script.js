@@ -45,7 +45,7 @@ window.onload = function() {
     const namedLinks = [
         { name: 'Criação de site', link: 'index1.html' },
         { name: 'Edição de arquivo PDF', link: 'index2.html' },
-        { name: 'Criação de flay', link: 'index3.html' },
+        { name: 'Ajuda / Consultoria Mobile - R$ 10,00', link: 'index3.html' },
         { name: 'Criação de Flayer / Logo - R$ 25,00', link: 'index4.html' },
         { name: 'Edição de PDF - R$ 5,00', link: 'index5.html' },
         { name: 'Desenvolvimento de currículo - R$ 5,00', link: 'index6.html' },
