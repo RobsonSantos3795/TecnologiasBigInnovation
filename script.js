@@ -48,7 +48,7 @@ window.onload = function() {
         { name: 'Criação de flay', link: 'index3.html' },
         { name: 'Criação de logo', link: 'index4.html' },
         { name: 'Convites personalizados', link: 'index5.html' },
-        { name: 'Formatação de computador', link: 'index6.html' },
+        { name: 'Desenvolvimento de cuRRículo - R$ 5,00', link: 'index6.html' },
         { name: 'Ajuda online', link: 'index7.html' },
         { name: 'Análise de dados com Power Bi', link:'powerbi.html' },
         { name: 'Sobre nós', link: 'index8.html' },
